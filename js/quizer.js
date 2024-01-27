@@ -341,27 +341,246 @@ function load(){
 }
 
 // EN songs
+const en_2010_m_icon = [
+	'pop'
+];
 
+const EN_2010_M_PACK_1 = 1;
 
+let en_2010_m = [
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Lil Nas X',
+		song : "Old Town Road"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Luis Fonsi',
+		song : "Despacito (ft Daddy Yankee)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Bruno Mars',
+		song : "Uptown Funk (ft. Mark Ronson)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Pharrell Williams',
+		song : "Blurred Lines (ft TI, Robin Thicke)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Wiz Khalifa',
+		song : "See You Again"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Ed Sheeran',
+		song : "Shape of You"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Drake',
+		song : "God's Plan"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Pharrell Williams',
+		song : "Happy"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Drake',
+		song : "In My Feelings"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Eminem',
+		song : "Love the Way You Lie (ft. Rihanna)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Bruno Mars',
+		song : "Grenade"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Bruno Mars',
+		song : "24K Magic"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Ed Sheeran',
+		song : "Perfect"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Ed Sheeran',
+		song : "Bad Habits"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Justin Bieber',
+		song : "What Do You Mean?"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Justin Bieber',
+		song : "Sorry"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Justin Bieber',
+		song : "Yummy"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Pitbull',
+		song : "Give Me Everything (ft. Ne-Yo, Afrojack, Nayer)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Pitbull',
+		song : "Timber (ft. Kesha)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Pitbull',
+		song : "Back in Time"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Drake',
+		song : "Hotline Bling"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Pharrell Williams',
+		song : "Get Lucky (ft Daft Punk)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Flo Rida',
+		song : "Good Feeling"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Flo Rida',
+		song : "Whistle"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'will.i.am',
+		song : "This Is Love (ft Eva Simons)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'will.i.am',
+		song : "Scream & Shout (ft Britney Spears)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Weeknd',
+		song : "Blinding Lights"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Weeknd',
+		song : "The Hills"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Weeknd',
+		song : "Heartless"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'will.i.am',
+		song : "#thatPOWER (ft Justin Bieber)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Harry Styles',
+		song : "Watermelon Sugar"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'David Guetta',
+		song : "Bad (ft Vassy) (2014)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'David Guetta',
+		song : "Lovers On The Sun (2014)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Alan Walker',
+		song : "Faded (2015)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Alan Walker',
+		song : "Alone (2016)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Tiesto',
+		song : "Wasted (ft Matthew Koma)(2014)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Tiesto',
+		song : "Red Lights (2014)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Kanye West',
+		song : "All Of The Lights (2010)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Kanye West',
+		song : "Bound 2 (2013)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Armin van Buuren',
+		song : "This Is What It Feels Like (ft Trevor Guthrie)",
+		year : 2013
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Mr Probz',
+		song : "Waves (rmx Robin Schulz)",
+		year : 2014
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Robin Schulz',
+		song : "Prayer in C (ft Lilly Wood and the Prick)",
+		year : 2014
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Robin Schulz',
+		song : "Sugar (ft Francesco Yates)",
+		year : 2015
+	}
+];
+
+let en_2010_m_1 =	en_2010_m.filter(item => item.pack == 1);
 
 let music = [
 	{
-		arr: en_2000_m,
+		arr: en_2010_m,
 		lang: 'en',
-		year: '2000',
+		year: '2010',
 		type: 'm',
 		packs: [
 				{
-					arr: en_2000_m_1,
-					name: 'EN 2000s Male: Pop',
-				},
-				{
-					arr: en_2000_m_2,
-					name: 'EN 2000s Male: Dj',
-				},
-				{
-					arr: en_2000_m_3,
-					name: 'EN 2000s Male: Rap',
+					arr: en_2010_m_1,
+					name: 'EN 2010s Male: Pop',
 				}
 			]
 	}
@@ -688,14 +907,14 @@ let generateImgPath;
 
 function setup(){
 	lang = 'en';
-	year = '2000';
+	year = '2010';
 	artist_type = 'm';
 	back = back_to_packages;
 	modeToggle = toggleArtist;
 	setMedia = setAudio;
 	rightAnswer = rightAnswer_RU;
 	count_time();
-	package_names = en_2000_gr_icon;
+	package_names = en_2010_m_icon;
 	show_packages(package_names.length);
 	document.body.scrollTop = document.documentElement.scrollTop = 0;
 }
