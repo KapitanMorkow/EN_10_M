@@ -509,12 +509,14 @@ let en_2010_m = [
 	{
 		pack : EN_2010_M_PACK_2,
 		group : 'David Guetta',
-		song : "Bad (ft Vassy) (2014)"
+		song : "Bad (ft Vassy) (2014)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_M_PACK_2,
 		group : 'David Guetta',
-		song : "Lovers On The Sun (2014)"
+		song : "Lovers On The Sun (2014)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_M_PACK_2,
@@ -553,10 +555,11 @@ let en_2010_m = [
 		year : 2013
 	},
 	{
-		pack : EN_2010_M_PACK_2,
+		pack : EN_2010_M_PACK_1,
 		group : 'Mr Probz',
 		song : "Waves (rmx Robin Schulz)",
-		year : 2014
+		year : 2014,
+		ignore : true
 	},
 	{
 		pack : EN_2010_M_PACK_2,
@@ -569,6 +572,91 @@ let en_2010_m = [
 		group : 'Robin Schulz',
 		song : "Sugar (ft Francesco Yates)",
 		year : 2015
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Alan Walker',
+		song : "All Falls Down (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Armin van Buuren',
+		song : "Blah Blah Blah (2018)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Armin van Buuren',
+		song : "Another You (ft Mr Probz) (2018)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'David Guetta',
+		song : "Memories (ft Kid Cudi) (2010)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'David Guetta',
+		song : "Sweat (ft Snoop Dogg) (2011)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'David Guetta',
+		song : "Titanium (ft Sia) (2011)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Robin Schulz',
+		song : "Waves (ft Mr Probz) (2014)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Tiesto',
+		song : "Jackie Chan (ft Dzeko, Preme, Post Malone) (2018)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Marshmello',
+		song : "Wolves (ft Selena Gomez) (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Marshmello',
+		song : "Happier (ft Bastille) (2018)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Marshmello',
+		song : "Friends (ft Anne-Marie) (2018)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Calvin Harris',
+		song : "One Kiss (ft Dua Lipa) (2018)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Calvin Harris',
+		song : "Feels (ft Pharrell Williams, Katy Perry and Big Sean) (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Calvin Harris',
+		song : "Summer (2014)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Martin Garrix',
+		song : "In the Name of Love (ft Bebe Rexha) (2016)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Martin Garrix',
+		song : "Scared to Be Lonely (ft Dua Lipa) (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Martin Garrix',
+		song : "Summer Days (ft Macklemore, Patrick Stump) (2019)"
 	}
 ];
 
