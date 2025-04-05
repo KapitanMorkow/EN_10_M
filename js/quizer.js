@@ -508,18 +508,6 @@ let en_2010_m = [
 	},
 	{
 		pack : EN_2010_M_PACK_2,
-		group : 'David Guetta',
-		song : "Bad (ft Vassy) (2014)",
-		ignore : true
-	},
-	{
-		pack : EN_2010_M_PACK_2,
-		group : 'David Guetta',
-		song : "Lovers On The Sun (2014)",
-		ignore : true
-	},
-	{
-		pack : EN_2010_M_PACK_2,
 		group : 'Alan Walker',
 		song : "Faded (2015)"
 	},
@@ -555,13 +543,6 @@ let en_2010_m = [
 		year : 2013
 	},
 	{
-		pack : EN_2010_M_PACK_1,
-		group : 'Mr Probz',
-		song : "Waves (rmx Robin Schulz)",
-		year : 2014,
-		ignore : true
-	},
-	{
 		pack : EN_2010_M_PACK_2,
 		group : 'Robin Schulz',
 		song : "Prayer in C (ft Lilly Wood and the Prick)",
@@ -582,11 +563,6 @@ let en_2010_m = [
 		pack : EN_2010_M_PACK_2,
 		group : 'Armin van Buuren',
 		song : "Blah Blah Blah (2018)"
-	},
-	{
-		pack : EN_2010_M_PACK_2,
-		group : 'Armin van Buuren',
-		song : "Another You (ft Mr Probz) (2018)"
 	},
 	{
 		pack : EN_2010_M_PACK_2,
@@ -657,6 +633,11 @@ let en_2010_m = [
 		pack : EN_2010_M_PACK_2,
 		group : 'Martin Garrix',
 		song : "Summer Days (ft Macklemore, Patrick Stump) (2019)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Armin van Buuren',
+		song : "Another You (ft Mr Probz) (2018)"
 	}
 ];
 
