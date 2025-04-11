@@ -658,17 +658,17 @@ let en_2010_m = [
 		song : "Adore You (2019)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Kanye West',
 		song : "I Love It (ft Lil Pump) (2018)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Lil Nas X',
 		song : "Panini (ft DaBaby) (2019)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Lil Nas X',
 		song : "Rodeo (ft Cardi B) (2019)"
 	},
@@ -678,12 +678,12 @@ let en_2010_m = [
 		song : "Échame la Culpa (ft Demi Lovato) (2017)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Wiz Khalifa',
 		song : "Black and Yellow (2010)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Wiz Khalifa',
 		song : "Young, Wild & Free (ft Snoop Dogg & Bruno Mars) (2011)"
 	},
@@ -733,17 +733,17 @@ let en_2010_m = [
 		song : "Better Now (2018)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Kendrick Lamar',
 		song : "Humble (2017)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Kendrick Lamar',
 		song : "Swimming Pools (Drank) (2012)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Kendrick Lamar',
 		song : "Love (ft Zacari) (2017)"
 	},
@@ -766,6 +766,7 @@ let en_2010_m = [
 
 let en_2010_m_1 =	en_2010_m.filter(item => item.pack == 1);
 let en_2010_m_2 =	en_2010_m.filter(item => item.pack == 2);
+let en_2010_m_3 =	en_2010_m.filter(item => item.pack == 3);
 
 let music = [
 	{
@@ -781,6 +782,10 @@ let music = [
 				{
 					arr: en_2010_m_2,
 					name: 'EN 2010s Male: Dj',
+				},
+				{
+					arr: en_2010_m_3,
+					name: 'EN 2010s Male: Rap',
 				}
 			]
 	}
