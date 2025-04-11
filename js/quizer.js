@@ -399,7 +399,8 @@ let en_2010_m = [
 	{
 		pack : EN_2010_M_PACK_1,
 		group : 'Eminem',
-		song : "Love the Way You Lie (ft. Rihanna) (2010)"
+		song : "Love the Way You Lie (ft. Rihanna) (2010)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_M_PACK_1,
@@ -504,7 +505,7 @@ let en_2010_m = [
 	{
 		pack : EN_2010_M_PACK_1,
 		group : 'Harry Styles',
-		song : "Watermelon Sugar (2019)"
+		song : "Watermelon Sugar (2020)"
 	},
 	{
 		pack : EN_2010_M_PACK_2,
@@ -529,7 +530,7 @@ let en_2010_m = [
 	{
 		pack : EN_2010_M_PACK_1,
 		group : 'Kanye West',
-		song : "All Of The Lights (2010)"
+		song : "All Of The Lights (ft Rihanna & Kid Cudi) (2010)"
 	},
 	{
 		pack : EN_2010_M_PACK_1,
@@ -638,6 +639,131 @@ let en_2010_m = [
 		pack : EN_2010_M_PACK_2,
 		group : 'Armin van Buuren',
 		song : "Another You (ft Mr Probz) (2018)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Flo Rida',
+		song : "My House (2015)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Harry Styles',
+		song : "Sign of the Times (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Harry Styles',
+		song : "Adore You (2019)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Kanye West',
+		song : "I Love It (ft Lil Pump) (2018)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Lil Nas X',
+		song : "Old Town Road (2018)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Lil Nas X',
+		song : "Panini (ft DaBaby) (2019)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Lil Nas X',
+		song : "Rodeo (ft Cardi B) (2019)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Luis Fonsi',
+		song : "Échame la Culpa (ft Demi Lovato) (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Wiz Khalifa',
+		song : "Black and Yellow (2010)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Wiz Khalifa',
+		song : "Young, Wild & Free (ft Snoop Dogg & Bruno Mars) (2011)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Shawn Mendes',
+		song : "Señorita (ft Camila Cabello) (2019)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Shawn Mendes',
+		song : "There's Nothing Holdin' Me Back (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Shawn Mendes',
+		song : "Stitches (2015)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Sam Smith',
+		song : "Diamonds (2020)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Sam Smith',
+		song : "Too Good at Goodbyes (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Sam Smith',
+		song : "Stay with Me (2014)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Post Malone',
+		song : "Circles (2019)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Post Malone',
+		song : "Wow (2018)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Post Malone',
+		song : "Better Now (2018)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Kendrick Lamar',
+		song : "Humble (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Kendrick Lamar',
+		song : "Swimming Pools (Drank) (2012)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Kendrick Lamar',
+		song : "Love (ft Zacari) (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Hozier',
+		song : "Take Me to Church (2013)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Hozier',
+		song : "Someone New (2015)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Hozier',
+		song : "Movement (2018)"
 	}
 ];
 
