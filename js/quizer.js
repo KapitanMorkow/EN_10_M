@@ -344,15 +344,17 @@ function load(){
 // EN songs
 const en_2010_m_icon = [
 	'pop',
-	'dj'
+	'dj',
+	'rap'
 ];
 
 const EN_2010_M_PACK_1 = 1;
 const EN_2010_M_PACK_2 = 2;
+const EN_2010_M_PACK_3 = 3;
 
 let en_2010_m = [
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Lil Nas X',
 		song : "Old Town Road (2018)"
 	},
@@ -372,7 +374,7 @@ let en_2010_m = [
 		song : "Blurred Lines (ft TI, Robin Thicke) (2013)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Wiz Khalifa',
 		song : "See You Again (ft Charlie Puth) (2015)"
 	},
@@ -382,7 +384,7 @@ let en_2010_m = [
 		song : "Shape of You (2017)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Drake',
 		song : "God's Plan (2018)"
 	},
@@ -392,7 +394,7 @@ let en_2010_m = [
 		song : "Happy (2013)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Drake',
 		song : "In My Feelings (2018)"
 	},
@@ -438,22 +440,22 @@ let en_2010_m = [
 		song : "Yummy (2020)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Pitbull',
 		song : "Give Me Everything (ft. Ne-Yo, Afrojack, Nayer) (2011)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Pitbull',
 		song : "Timber (ft. Kesha) (2013)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Pitbull',
 		song : "Back in Time (2012)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Drake',
 		song : "Hotline Bling (2015)"
 	},
@@ -463,22 +465,22 @@ let en_2010_m = [
 		song : "Get Lucky (ft Daft Punk) (2013)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Flo Rida',
 		song : "Good Feeling (2012)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Flo Rida',
 		song : "Whistle (2012)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'will.i.am',
 		song : "This Is Love (ft Eva Simons) (2012)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'will.i.am',
 		song : "Scream & Shout (ft Britney Spears) (2012)"
 	},
@@ -498,7 +500,7 @@ let en_2010_m = [
 		song : "Heartless (2019)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'will.i.am',
 		song : "#thatPOWER (ft Justin Bieber) (2013)"
 	},
@@ -528,12 +530,12 @@ let en_2010_m = [
 		song : "Red Lights (2014)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Kanye West',
 		song : "All Of The Lights (ft Rihanna & Kid Cudi) (2010)"
 	},
 	{
-		pack : EN_2010_M_PACK_1,
+		pack : EN_2010_M_PACK_3,
 		group : 'Kanye West',
 		song : "Bound 2 (2013)"
 	},
@@ -659,11 +661,6 @@ let en_2010_m = [
 		pack : EN_2010_M_PACK_1,
 		group : 'Kanye West',
 		song : "I Love It (ft Lil Pump) (2018)"
-	},
-	{
-		pack : EN_2010_M_PACK_1,
-		group : 'Lil Nas X',
-		song : "Old Town Road (2018)"
 	},
 	{
 		pack : EN_2010_M_PACK_1,
