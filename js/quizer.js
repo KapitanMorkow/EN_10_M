@@ -761,6 +761,51 @@ let en_2010_m = [
 		pack : EN_2010_M_PACK_1,
 		group : 'Hozier',
 		song : "Movement (2018)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Jason Derulo',
+		song : "Savage Love (Laxed – Siren Beat)(ft Jawsh 685) (2020)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Jason Derulo',
+		song : "Want to Want Me (2015)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Jason Derulo',
+		song : "Talk Dirty (ft 2 Chainz) (2013)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Tinie Tempah',
+		song : "Written in the Stars (ft Eric Turner) (2010)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Tinie Tempah',
+		song : "Pass Out (2010)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Tinie Tempah',
+		song : "Miami 2 Ibiza (ft Swedish House Mafia) (2010)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'XXXTentacion',
+		song : "Fuck Love (ft Trippie Redd) (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'XXXTentacion',
+		song : "Sad! (2018)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'XXXTentacion',
+		song : "Moonlight (2018)"
 	}
 ];
 
