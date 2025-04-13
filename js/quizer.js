@@ -502,7 +502,8 @@ let en_2010_m = [
 	{
 		pack : EN_2010_M_PACK_3,
 		group : 'will.i.am',
-		song : "#thatPOWER (ft Justin Bieber) (2013)"
+		song : "#thatPOWER (ft Justin Bieber) (2013)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_M_PACK_1,
@@ -685,7 +686,8 @@ let en_2010_m = [
 	{
 		pack : EN_2010_M_PACK_3,
 		group : 'Wiz Khalifa',
-		song : "Young, Wild & Free (ft Snoop Dogg & Bruno Mars) (2011)"
+		song : "Young, Wild & Free (ft Snoop Dogg & Bruno Mars) (2011)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_M_PACK_1,
@@ -790,7 +792,8 @@ let en_2010_m = [
 	{
 		pack : EN_2010_M_PACK_3,
 		group : 'Tinie Tempah',
-		song : "Miami 2 Ibiza (ft Swedish House Mafia) (2010)"
+		song : "Miami 2 Ibiza (ft Swedish House Mafia) (2010)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_M_PACK_3,
@@ -806,6 +809,36 @@ let en_2010_m = [
 		pack : EN_2010_M_PACK_3,
 		group : 'XXXTentacion',
 		song : "Moonlight (2018)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Charlie Puth',
+		song : "We Don't Talk Anymore (ft Selena Gomez) (2016)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Charlie Puth',
+		song : "Attention (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : 'Charlie Puth',
+		song : "One Call Away (2015)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Tinie Tempah',
+		song : "Not Letting Go (ft Jess Glynne) (2015)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Wiz Khalifa',
+		song : "Work Hard, Play Hard (2012)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'will.i.am',
+		song : "Fall Down (ft Miley Cyrus) (2013)"
 	}
 ];
 
