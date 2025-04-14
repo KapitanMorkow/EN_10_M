@@ -535,7 +535,8 @@ let en_2010_m = [
 	{
 		pack : EN_2010_M_PACK_3,
 		group : 'Kanye West',
-		song : "All Of The Lights (ft Rihanna & Kid Cudi) (2010)"
+		song : "All Of The Lights (ft Rihanna & Kid Cudi) (2010)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_M_PACK_3,
@@ -842,6 +843,11 @@ let en_2010_m = [
 		group : 'Charlie Puth',
 		song : "One Call Away (2015)"
 	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Pitbull',
+		song : "International Love (2011)"
+	}
 ];
 
 let en_2010_m_1 =	en_2010_m.filter(item => item.pack == 1);
