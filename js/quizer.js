@@ -442,7 +442,8 @@ let en_2010_m = [
 	{
 		pack : EN_2010_M_PACK_3,
 		group : 'Pitbull',
-		song : "Give Me Everything (ft. Ne-Yo, Afrojack, Nayer) (2011)"
+		song : "Give Me Everything (ft. Ne-Yo, Afrojack, Nayer) (2011)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_M_PACK_3,
@@ -482,7 +483,8 @@ let en_2010_m = [
 	{
 		pack : EN_2010_M_PACK_3,
 		group : 'will.i.am',
-		song : "Scream & Shout (ft Britney Spears) (2012)"
+		song : "Scream & Shout (ft Britney Spears) (2012)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_M_PACK_1,
@@ -765,17 +767,17 @@ let en_2010_m = [
 		song : "Movement (2018)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_1,
 		group : 'Jason Derulo',
 		song : "Savage Love (Laxed – Siren Beat)(ft Jawsh 685) (2020)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_1,
 		group : 'Jason Derulo',
 		song : "Want to Want Me (2015)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_1,
 		group : 'Jason Derulo',
 		song : "Talk Dirty (ft 2 Chainz) (2013)"
 	},
@@ -811,6 +813,21 @@ let en_2010_m = [
 		song : "Moonlight (2018)"
 	},
 	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Tinie Tempah',
+		song : "Not Letting Go (ft Jess Glynne) (2015)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Wiz Khalifa',
+		song : "Work Hard, Play Hard (2012)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'will.i.am',
+		song : "Fall Down (ft Miley Cyrus) (2013)"
+	},
+	{
 		pack : EN_2010_M_PACK_1,
 		group : 'Charlie Puth',
 		song : "We Don't Talk Anymore (ft Selena Gomez) (2016)"
@@ -825,21 +842,6 @@ let en_2010_m = [
 		group : 'Charlie Puth',
 		song : "One Call Away (2015)"
 	},
-	{
-		pack : EN_2010_M_PACK_3,
-		group : 'Tinie Tempah',
-		song : "Not Letting Go (ft Jess Glynne) (2015)"
-	},
-	{
-		pack : EN_2010_M_PACK_3,
-		group : 'Wiz Khalifa',
-		song : "Work Hard, Play Hard (2012)"
-	},
-	{
-		pack : EN_2010_M_PACK_3,
-		group : 'will.i.am',
-		song : "Fall Down (ft Miley Cyrus) (2013)"
-	}
 ];
 
 let en_2010_m_1 =	en_2010_m.filter(item => item.pack == 1);
