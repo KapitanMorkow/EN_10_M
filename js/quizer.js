@@ -664,7 +664,8 @@ let en_2010_m = [
 	{
 		pack : EN_2010_M_PACK_3,
 		group : 'Kanye West',
-		song : "I Love It (ft Lil Pump) (2018)"
+		song : "I Love It (ft Lil Pump) (2018)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_M_PACK_3,
@@ -847,6 +848,21 @@ let en_2010_m = [
 		pack : EN_2010_M_PACK_3,
 		group : 'Pitbull',
 		song : "International Love (2011)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Kanye West',
+		song : "Bound 2 (2013)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Kanye West',
+		song : "Power (2010)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Kanye West',
+		song : "Fade (2016)"
 	}
 ];
 
