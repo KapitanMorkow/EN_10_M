@@ -863,6 +863,21 @@ let en_2010_m = [
 		pack : EN_2010_M_PACK_3,
 		group : 'Kanye West',
 		song : "Fade (2016)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : "Rag'n'Bone Man",
+		song : "Human (2016)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : "Rag'n'Bone Man",
+		song : "Skin (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : "Rag'n'Bone Man",
+		song : "Giant (ft Calvin Harris) (2019)"
 	}
 ];
 
