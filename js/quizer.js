@@ -878,6 +878,21 @@ let en_2010_m = [
 		pack : EN_2010_M_PACK_1,
 		group : "Rag'n'Bone Man",
 		song : "Giant (ft Calvin Harris) (2019)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : "Troye Sivan",
+		song : "Youth (2015)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : "Troye Sivan",
+		song : "My My My! (2018)"
+	},
+	{
+		pack : EN_2010_M_PACK_1,
+		group : "Troye Sivan",
+		song : "Wild (2015)"
 	}
 ];
 
