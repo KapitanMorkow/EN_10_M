@@ -893,6 +893,21 @@ let en_2010_m = [
 		pack : EN_2010_M_PACK_1,
 		group : "Troye Sivan",
 		song : "Wild (2015)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Lost Frequencies',
+		song : "Are You with Me (2014)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Lost Frequencies',
+		song : "Crazy (ft Zonderling) (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_2,
+		group : 'Lost Frequencies',
+		song : "Reality (ft Janieck Devy) (2015)"
 	}
 ];
 
