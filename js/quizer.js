@@ -908,6 +908,31 @@ let en_2010_m = [
 		pack : EN_2010_M_PACK_2,
 		group : 'Lost Frequencies',
 		song : "Reality (ft Janieck Devy) (2015)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Lil Peep',
+		song : "Save That Shit (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Lil Peep',
+		song : "Star Shopping (2015)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Lil Peep',
+		song : "U Said (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Lil Pump',
+		song : "Gucci Gang (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Lil Uzi Vert',
+		song : "XO TOUR Llif3 (2017)"
 	}
 ];
 
