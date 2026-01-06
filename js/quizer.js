@@ -345,12 +345,14 @@ function load(){
 const en_2010_m_icon = [
 	'pop',
 	'dj',
-	'rap'
+	'rap',
+	'pop_2'
 ];
 
 const EN_2010_M_PACK_1 = 1;
 const EN_2010_M_PACK_2 = 2;
 const EN_2010_M_PACK_3 = 3;
+const EN_2010_M_PACK_4 = 4;
 
 let en_2010_m = [
 	{
@@ -852,7 +854,8 @@ let en_2010_m = [
 	{
 		pack : EN_2010_M_PACK_3,
 		group : 'Kanye West',
-		song : "Bound 2 (2013)"
+		song : "Bound 2 (2013)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_M_PACK_3,
@@ -933,12 +936,88 @@ let en_2010_m = [
 		pack : EN_2010_M_PACK_3,
 		group : 'Lil Uzi Vert',
 		song : "XO TOUR Llif3 (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'David Kushner',
+		song : "Burn (2022)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Myles Smith',
+		song : "Nice To Meet You (2024)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'mgk',
+		song : "my ex's best friend (ft blackbear) (2020)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Tommy Richman',
+		song : "MILLION DOLLAR BABY (2024)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Alec Benjamin',
+		song : "Let Me Down Slowly (2018)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Alex Ferrari',
+		song : "Bara Bara Bere Bere (2012)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'blackbear',
+		song : "idfc (2014)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'BØRNS',
+		song : "Electric Love (2014)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Desiigner',
+		song : "Panda (2015)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Duke Dumont',
+		song : "Ocean Drive (2015)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'FINNEAS',
+		song : "Let's Fall in Love for the Night (2018)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'Flying Decibels',
+		song : "The Roads (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'George Ezra',
+		song : "Budapest (2013)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'J Balvin',
+		song : "Mi Gente (ft Willy William) (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_3,
+		group : 'John Newman',
+		song : "Love Me Again (2013)"
 	}
 ];
 
 let en_2010_m_1 =	en_2010_m.filter(item => item.pack == 1);
 let en_2010_m_2 =	en_2010_m.filter(item => item.pack == 2);
 let en_2010_m_3 =	en_2010_m.filter(item => item.pack == 3);
+let en_2010_m_4 =	en_2010_m.filter(item => item.pack == 4);
 
 let music = [
 	{
@@ -958,6 +1037,10 @@ let music = [
 				{
 					arr: en_2010_m_3,
 					name: 'EN 2010s Male: Rap',
+				},
+				{
+					arr: en_2010_m_4,
+					name: 'EN 2010s Male: One Hit Wonder',
 				}
 			]
 	}
