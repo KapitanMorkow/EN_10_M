@@ -898,19 +898,21 @@ let en_2010_m = [
 		song : "Wild (2015)"
 	},
 	{
-		pack : EN_2010_M_PACK_2,
+		pack : EN_2010_M_PACK_4,
 		group : 'Lost Frequencies',
 		song : "Are You with Me (2014)"
 	},
 	{
 		pack : EN_2010_M_PACK_2,
 		group : 'Lost Frequencies',
-		song : "Crazy (ft Zonderling) (2017)"
+		song : "Crazy (ft Zonderling) (2017)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_M_PACK_2,
 		group : 'Lost Frequencies',
-		song : "Reality (ft Janieck Devy) (2015)"
+		song : "Reality (ft Janieck Devy) (2015)",
+		ignore : true
 	},
 	{
 		pack : EN_2010_M_PACK_3,
@@ -938,79 +940,129 @@ let en_2010_m = [
 		song : "XO TOUR Llif3 (2017)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_4,
 		group : 'David Kushner',
 		song : "Burn (2022)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_4,
 		group : 'Myles Smith',
 		song : "Nice To Meet You (2024)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_4,
 		group : 'mgk',
 		song : "my ex's best friend (ft blackbear) (2020)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_4,
 		group : 'Tommy Richman',
 		song : "MILLION DOLLAR BABY (2024)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_4,
 		group : 'Alec Benjamin',
 		song : "Let Me Down Slowly (2018)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_4,
 		group : 'Alex Ferrari',
 		song : "Bara Bara Bere Bere (2012)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_4,
 		group : 'blackbear',
 		song : "idfc (2014)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_4,
 		group : 'BØRNS',
 		song : "Electric Love (2014)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_4,
 		group : 'Desiigner',
 		song : "Panda (2015)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_4,
 		group : 'Duke Dumont',
 		song : "Ocean Drive (2015)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_4,
 		group : 'FINNEAS',
 		song : "Let's Fall in Love for the Night (2018)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_4,
 		group : 'Flying Decibels',
 		song : "The Roads (2017)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_4,
 		group : 'George Ezra',
 		song : "Budapest (2013)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_4,
 		group : 'J Balvin',
 		song : "Mi Gente (ft Willy William) (2017)"
 	},
 	{
-		pack : EN_2010_M_PACK_3,
+		pack : EN_2010_M_PACK_4,
 		group : 'John Newman',
 		song : "Love Me Again (2013)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'John Legend',
+		song : "All of Me (2013)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'Lucenzo',
+		song : "Danza Kuduro (ft Don Omar) (2011)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'Major Lazer, MØ & DJ Snake',
+		song : "Lean On (2015)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'Mark Ronson',
+		song : "Uptown Funk (ft Bruno Mars) (2014)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'Masked Wolf',
+		song : "Astronaut In The Ocean (2019)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'Michel Telo',
+		song : "Ai Se Eu Te Pego (2011)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'Måns Zelmerlöw',
+		song : "Heroes (2015)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'Naughty Boy',
+		song : "La La La (ft Sam Smith) (2013)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'Ola',
+		song : "I'm In Love (2012)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'Olly Murs',
+		song : "Troublemaker (ft Flo Rida) (2012)"
 	}
 ];
 
