@@ -961,7 +961,7 @@ let en_2010_m = [
 	},
 	{
 		pack : EN_2010_M_PACK_4,
-		group : 'Alec Benjamin',
+		group : 'Alec Benjamin (Dj)',
 		song : "Let Me Down Slowly (2018)"
 	},
 	{
@@ -986,7 +986,7 @@ let en_2010_m = [
 	},
 	{
 		pack : EN_2010_M_PACK_4,
-		group : 'Duke Dumont',
+		group : 'Duke Dumont (Dj)',
 		song : "Ocean Drive (2015)"
 	},
 	{
@@ -996,7 +996,7 @@ let en_2010_m = [
 	},
 	{
 		pack : EN_2010_M_PACK_4,
-		group : 'Flying Decibels',
+		group : 'Flying Decibels (Dj)',
 		song : "The Roads (2017)"
 	},
 	{
@@ -1071,12 +1071,12 @@ let en_2010_m = [
 	},
 	{
 		pack : EN_2010_M_PACK_4,
-		group : 'Sak Noel',
+		group : 'Sak Noel (Dj)',
 		song : "Loca People (What the F**k!) (2011)"
 	},
 	{
 		pack : EN_2010_M_PACK_4,
-		group : 'Tony Igy',
+		group : 'Tony Igy (Dj)',
 		song : "Astronomia (2010)"
 	},
 	{
@@ -1091,7 +1091,7 @@ let en_2010_m = [
 	},
 	{
 		pack : EN_2010_M_PACK_4,
-		group : 'Willy William',
+		group : 'Willy William (Dj)',
 		song : "Ego (2011)"
 	},
 	{
