@@ -951,7 +951,7 @@ let en_2010_m = [
 	},
 	{
 		pack : EN_2010_M_PACK_4,
-		group : 'mgk',
+		group : 'Machine Gun Kelly',
 		song : "my ex's best friend (ft blackbear) (2020)"
 	},
 	{
