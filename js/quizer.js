@@ -1063,6 +1063,46 @@ let en_2010_m = [
 		pack : EN_2010_M_PACK_4,
 		group : 'Olly Murs',
 		song : "Troublemaker (ft Flo Rida) (2012)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'Passenger',
+		song : "Let Her Go (2012)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'Sak Noel',
+		song : "Loca People (What the F**k!) (2011)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'Tony Igy',
+		song : "Astronomia (2010)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'Travis Scott',
+		song : "HIGHEST IN THE ROOM (2019)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'Two Feet',
+		song : "I Feel Like I'm Drowning (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'Willy William',
+		song : "Ego (2011)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'Zac Efron',
+		song : "Rewrite the Stars (ft Zendaya) (2017)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'ZAYN',
+		song : "PILLOWTALK (2016)"
 	}
 ];
 
