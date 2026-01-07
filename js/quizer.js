@@ -1026,8 +1026,8 @@ let en_2010_m = [
 	},
 	{
 		pack : EN_2010_M_PACK_4,
-		group : 'Major Lazer, MØ & DJ Snake',
-		song : "Lean On (2015)"
+		group : 'Major Lazer',
+		song : "Lean On (ft MØ & DJ Snake) (2015)"
 	},
 	{
 		pack : EN_2010_M_PACK_4,
