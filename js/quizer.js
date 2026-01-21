@@ -1105,9 +1105,14 @@ let en_2010_m = [
 		song : "PILLOWTALK (2016)"
 	},
 	{
-		pack : EN_2020_M_PACK_4,
+		pack : EN_2010_M_PACK_4,
 		group : 'Rema',
 		song : "Calm Down (2022)"
+	},
+	{
+		pack : EN_2010_M_PACK_4,
+		group : 'Shaboozey',
+		song : "A Bar Song (Tipsy) (2024)"
 	}
 ];
 
